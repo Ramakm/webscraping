@@ -5,5 +5,5 @@
  so just check the code and if you don't know about we scrapping just follwo the below link and read the blog and by the end of that blog you will get more knowldge about 
  web scrapping and beautifulsoup with some other modules as well like urllib3, request etc.
  
-- [Web Scrapping Corona Site](https://dev.to/ramakm/web-scrapping-using-python-beautifulsoup-3kk2)
+[Web Scrapping Corona Site](https://dev.to/ramakm/web-scrapping-using-python-beautifulsoup-3kk2)
  </b>
